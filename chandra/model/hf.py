@@ -33,7 +33,6 @@ def generate_hf(
         return_tensors="pt",
         padding_side="left",
     )
-    inputs = inputs.to(model.device)
 
     # Inference: Generation of the output
     generated_ids = model.generate(**inputs, max_new_tokens=max_output_tokens)
