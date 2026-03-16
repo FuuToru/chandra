@@ -1,0 +1,180 @@
+# Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu
+
+Báo cáo tài chính tóm tắt
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+EY
+
+Building a better  
+working world# Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu
+
+## MỤC LỤC
+
+<table><thead><tr><th></th><th>Trang</th></tr></thead><tbody><tr><td>Báo cáo của kiểm toán độc lập về báo cáo tài chính tóm tắt</td><td>1 - 2</td></tr><tr><td>Bảng cân đối kế toán tóm tắt</td><td>3</td></tr><tr><td>Báo cáo kết quả hoạt động kinh doanh tóm tắt</td><td>4</td></tr><tr><td>Các chỉ tiêu tài chính cơ bản</td><td>5</td></tr><tr><td>Thuyết minh báo cáo tài chính tóm tắt</td><td>6</td></tr></tbody></table>![EY logo](76b148e47fde350055c0a2f46c5a0288_1_img.webp)
+
+Building a better  
+working world
+
+Ernst & Young Vietnam Limited  
+20th Floor, Bitexco Financial Tower  
+2 Hai Trieu Street, District 1  
+Ho Chi Minh City, S.R. of Vietnam
+
+Tel: +84 28 3824 5252  
+Fax: +84 28 3824 5250  
+ey.com
+
+Số tham chiếu: 11542258/68444680-BCTT
+
+## BÁO CÁO CỦA KIỂM TOÁN ĐỘC LẬP VỀ BÁO CÁO TÀI CHÍNH TÓM TẮT
+
+Kính gửi: Các cổ đông Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu
+
+Báo cáo tài chính tóm tắt, được lập ngày 8 tháng 4 năm 2025 và được trình bày từ trang 3 đến trang 6, bao gồm bảng cân đối kế toán tóm tắt tại ngày 31 tháng 12 năm 2024, báo cáo kết quả hoạt động kinh doanh tóm tắt cho năm tài chính kết thúc cùng ngày, được trích từ báo cáo tài chính đầy đủ cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 của Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu ("Tổng Công ty") đã được kiểm toán và các chỉ tiêu tài chính cơ bản được tính toán dựa trên số liệu của các báo cáo này. Chúng tôi đã đưa ra ý kiến kiểm toán chấp nhận toàn phần đối với báo cáo tài chính đầy đủ này tại báo cáo kiểm toán lập ngày 8 tháng 4 năm 2025. Báo cáo tài chính đầy đủ này và báo cáo tài chính tóm tắt không phản ánh ảnh hưởng của các sự kiện phát sinh sau ngày lập báo cáo kiểm toán nêu trên.
+
+Báo cáo tài chính tóm tắt không bao gồm tất cả các thuyết minh cần phải công bố theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam, các hướng dẫn kế toán áp dụng cho các doanh nghiệp bảo hiểm và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Do đó, việc đọc báo cáo tài chính tóm tắt không thể thay thế cho việc đọc báo cáo tài chính đầy đủ của Tổng Công ty.
+
+### Trách nhiệm của Ban Điều hành
+
+Ban Điều hành Tổng Công ty chịu trách nhiệm về việc lập và trình bày báo cáo tài chính tóm tắt theo các cơ sở trình bày được đề cập trong Thuyết minh số 2.
+
+### Trách nhiệm của Kiểm toán viên
+
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính tóm tắt dựa trên các thủ tục mà chúng tôi đã thực hiện theo quy định và hướng dẫn của Chuẩn mực kiểm toán Việt Nam số 810 - "Dịch vụ báo cáo về báo cáo tài chính tóm tắt".![EY logo](df738a4f49a595ceaa7cc491c7746e05_1_img.webp)
+
+Building a better  
+working world
+
+**Ý kiến của Kiểm toán viên**
+
+Theo ý kiến của chúng tôi, báo cáo tài chính tóm tắt, được trích từ báo cáo tài chính cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 của Tổng Công ty đã được kiểm toán, đã phản ánh nhất quán, trên các khía cạnh trọng yếu, với báo cáo tài chính đã được kiểm toán, trên cơ sở trình bày được đề cập tại Thuyết minh số 2.
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam
+
+![Circular stamp of Ernst & Young Vietnam, including M.S.D.N.0300811802-C.T.T.N.H.H, CÔNG TY TRÁCH NHIỆM HỮU HẠN ERNST & YOUNG VIỆT NAM, and QUẬN 1 - TP. HỒ CHÍ MINH.](df738a4f49a595ceaa7cc491c7746e05_6_img.webp)
+
+Saman Wijaya Bandara  
+Phó Tổng Giám đốc  
+Số Giấy CNDKHN kiểm toán: 2036-2023-004-1
+
+![Signature of Saman Wijaya Bandara]()
+
+Nguyễn Văn Trung  
+Kiểm toán viên  
+Số Giấy CNDKHN kiểm toán: 3847-2021-004-1
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 8 tháng 4 năm 2025# Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu
+
+## BẢNG CÂN ĐỐI KẾ TOÁN TÓM TẮT
+
+ngày 31 tháng 12 năm 2024
+
+VND
+
+<table><thead><tr><th>STT</th><th>CHỈ TIÊU</th><th>Số cuối năm</th><th>Số đầu năm</th></tr></thead><tbody><tr><td>I</td><td><strong>TÀI SẢN NGẮN HẠN</strong></td><td>2.248.296.160.963</td><td>2.174.065.390.675</td></tr><tr><td>1</td><td>Tiền và các khoản tương đương tiền</td><td>39.556.388.910</td><td>45.643.179.707</td></tr><tr><td>2</td><td>Đầu tư tài chính ngắn hạn</td><td>1.182.000.000.000</td><td>922.500.000.000</td></tr><tr><td>3</td><td>Các khoản phải thu ngắn hạn</td><td>600.093.479.428</td><td>688.016.666.754</td></tr><tr><td>4</td><td>Hàng tồn kho</td><td>1.745.885.922</td><td>1.591.563.252</td></tr><tr><td>5</td><td>Tài sản ngắn hạn khác</td><td>223.929.635.236</td><td>295.993.575.869</td></tr><tr><td>6</td><td>Tài sản tái bảo hiểm</td><td>200.970.771.467</td><td>220.320.405.093</td></tr><tr><td></td><td>Dự phòng phí nhượng tái bảo hiểm</td><td>139.761.636.683</td><td>160.058.326.602</td></tr><tr><td></td><td>Dự phòng bồi thường nhượng tái bảo hiểm</td><td>61.209.134.784</td><td>60.262.078.491</td></tr><tr><td>II</td><td><strong>TÀI SẢN DÀI HẠN</strong></td><td>82.325.181.553</td><td>144.549.473.097</td></tr><tr><td>1</td><td>Các khoản phải thu dài hạn</td><td>11.637.654.709</td><td>10.007.378.084</td></tr><tr><td>2</td><td>Tài sản cố định</td><td>58.360.951.470</td><td>62.974.813.037</td></tr><tr><td></td><td>Tài sản cố định hữu hình</td><td>9.494.362.325</td><td>10.317.646.741</td></tr><tr><td></td><td>Tài sản cố định vô hình</td><td>48.866.589.145</td><td>52.657.166.296</td></tr><tr><td>3</td><td>Chi phí xây dựng cơ bản dở dang</td><td>290.750.000</td><td>368.418.200</td></tr><tr><td>4</td><td>Đầu tư tài chính dài hạn</td><td>4.124.325.333</td><td>62.935.692.952</td></tr><tr><td>5</td><td>Tài sản dài hạn khác</td><td>7.911.500.041</td><td>8.263.170.824</td></tr><tr><td>III</td><td><strong>TỔNG CỘNG TÀI SẢN</strong></td><td>2.330.621.342.516</td><td>2.318.614.863.772</td></tr><tr><td>IV</td><td><strong>NỢ PHẢI TRẢ</strong></td><td>1.430.910.953.305</td><td>1.443.248.663.476</td></tr><tr><td>1</td><td>Nợ ngắn hạn</td><td>1.430.874.150.194</td><td>1.443.202.790.365</td></tr><tr><td></td><td>Trong đó:</td><td></td><td></td></tr><tr><td></td><td>Dự phòng nghiệp vụ</td><td>685.181.148.248</td><td>705.466.372.188</td></tr><tr><td></td><td>- Dự phòng phí bảo hiểm gốc và nhận tái bảo hiểm</td><td>470.572.264.802</td><td>512.693.814.348</td></tr><tr><td></td><td>- Dự phòng bồi thường bảo hiểm gốc và nhận tái bảo hiểm</td><td>133.043.520.953</td><td>125.720.454.696</td></tr><tr><td></td><td>- Dự phòng dao động lớn</td><td>81.565.362.493</td><td>67.052.103.144</td></tr><tr><td>2</td><td>Nợ dài hạn</td><td>36.803.111</td><td>45.873.111</td></tr><tr><td>V</td><td><strong>VỐN CHỦ SỞ HỮU</strong></td><td>899.710.389.211</td><td>875.366.200.296</td></tr><tr><td>1</td><td>Vốn đầu tư của chủ sở hữu</td><td>465.000.000.000</td><td>465.000.000.000</td></tr><tr><td>2</td><td>Thặng dư vốn cổ phần</td><td>141.065.447.765</td><td>141.065.447.765</td></tr><tr><td>3</td><td>Quỹ dự trữ bắt buộc</td><td>26.612.227.148</td><td>24.697.517.702</td></tr><tr><td>4</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>267.032.714.298</td><td>244.603.234.829</td></tr><tr><td>VI</td><td><strong>TỔNG CỘNG NGUỒN VỐN</strong></td><td>2.330.621.342.516</td><td>2.318.614.863.772</td></tr></tbody></table>
+
+![Signature of Ông Vũ Văn Điêu]()  
+Ông Vũ Văn Điêu  
+P. Giám đốc Ban Kế toán - Thuế
+
+![Signature of Ông Trần Bằng Đoàn]()  
+Ông Trần Bằng Đoàn  
+Giám đốc Ban Kế toán - Thuế
+
+![Signature of Ông Phan Hoàng Chung Thủy]()  
+Ông Phan Hoàng Chung Thủy  
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 8 tháng 4 năm 2025# Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH TÓM TẮT  
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+VND
+
+<table><thead><tr><th>STT</th><th>CHỈ TIÊU</th><th>Năm nay</th><th>Năm trước</th></tr></thead><tbody><tr><td>10</td><td>1. Doanh thu thuần hoạt động kinh doanh bảo hiểm</td><td>2.388.298.177.104</td><td>1.587.393.804.120</td></tr><tr><td>12</td><td>2. Doanh thu hoạt động tài chính</td><td>65.510.256.660</td><td>89.255.454.890</td></tr><tr><td>13</td><td>3. Thu nhập khác</td><td>162.346.523</td><td>6.198.550.242</td></tr><tr><td>20</td><td>4. Tổng chi phí hoạt động kinh doanh bảo hiểm</td><td>(2.064.366.266.775)</td><td>(1.267.622.893.482)</td></tr><tr><td>22</td><td>5. Chi phí hoạt động tài chính</td><td>(1.206.145.079)</td><td>(3.366.005.574)</td></tr><tr><td>23</td><td>6. Chi phí quản lý doanh nghiệp</td><td>(324.007.522.598)</td><td>(316.287.877.302)</td></tr><tr><td>24</td><td>7. Chi phí khác</td><td>(11.132.273.775)</td><td>(1.359.277.026)</td></tr><tr><td>50</td><td>8. Tổng lợi nhuận kế toán trước thuế</td><td>53.258.572.060</td><td>94.211.755.868</td></tr><tr><td>51</td><td>9. Chi phí thuế TNDN</td><td>(14.964.383.145)</td><td>(20.271.364.594)</td></tr><tr><td>60</td><td>10. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td>38.294.188.915</td><td>73.940.391.274</td></tr><tr><td>70</td><td>11. Lãi cơ bản trên cổ phiếu</td><td>824</td><td>1.590</td></tr></tbody></table>
+
+![Signature of Ông Vũ Văn Điều]()
+
+Ông Vũ Văn Điều  
+P. Giám đốc Ban Kế toán - Thuế
+
+![Signature of Ông Trần Bằng Đoàn]()
+
+Ông Trần Bằng Đoàn  
+Giám đốc Ban Kế toán - Thuế
+
+![Signature of Ông Phan Hoàng Chung Thủy]()
+
+Ông Phan Hoàng Chung Thủy  
+Tổng Giám đốc
+
+![Circular seal of Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu]()
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 8 tháng 4 năm 2025# Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu
+
+CÁC CHỈ TIÊU TÀI CHÍNH CƠ BẢN  
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+<table><thead><tr><th>STT</th><th>CHỈ TIÊU</th><th>Đơn vị tính</th><th>Năm nay</th><th>Năm trước</th></tr></thead><tbody><tr><td rowspan="2">1.</td><td>Cơ cấu tài sản</td><td></td><td></td><td></td></tr><tr><td>Tài sản dài hạn/Tổng tài sản</td><td>%</td><td>3,53</td><td>6,23</td></tr><tr><td></td><td>Tài sản ngắn hạn/Tổng tài sản</td><td>%</td><td>96,47</td><td>93,77</td></tr><tr><td rowspan="2">2.</td><td>Cơ cấu nguồn vốn</td><td></td><td></td><td></td></tr><tr><td>Nợ phải trả<br/>(Tổng nợ phải trả và vốn chủ sở hữu)</td><td>%</td><td>61,40</td><td>62,25</td></tr><tr><td></td><td>Vốn chủ sở hữu<br/>(Tổng nợ phải trả và vốn chủ sở hữu)</td><td>%</td><td>38,60</td><td>37,75</td></tr><tr><td rowspan="3">3.</td><td>Khả năng thanh toán</td><td></td><td></td><td></td></tr><tr><td>(Tiền và các khoản tương đương tiền<br/>+ Các khoản đầu tư tài chính ngắn hạn<br/>+ Các khoản phải thu ngắn hạn) / Nợ ngắn hạn</td><td>Lần</td><td>1,27</td><td>1,15</td></tr><tr><td>Tài sản ngắn hạn/Nợ ngắn hạn</td><td>Lần</td><td>1,57</td><td>1,51</td></tr><tr><td rowspan="3">4.</td><td>Tỷ suất lợi nhuận</td><td></td><td></td><td></td></tr><tr><td>Lợi nhuận trước thuế/Tổng tài sản</td><td>%</td><td>2,29</td><td>4,06</td></tr><tr><td>Lợi nhuận sau thuế/Doanh thu thuần từ hoạt động kinh doanh bảo hiểm</td><td>%</td><td>1,60</td><td>4,66</td></tr><tr><td></td><td>Lợi nhuận sau thuế/Nguồn vốn chủ sở hữu</td><td>%</td><td>4,26</td><td>8,45</td></tr><tr><td>5</td><td>Biên khả năng thanh toán</td><td></td><td></td><td></td></tr><tr><td></td><td>Biên khả năng thanh toán</td><td>%</td><td>153</td><td>151</td></tr></tbody></table>
+
+![Signature of Mr. Vu Van Dieu]()  
+Ông Vũ Văn Điệu  
+P. Giám đốc Ban Kế toán - Thuế
+
+![Signature of Mr. Tran Bang Doan]()  
+Ông Trần Bằng Đoàn  
+Giám đốc Ban Kế toán - Thuế
+
+![Signature of Mr. Phan Hoang Chung Thuy]()  
+Ông Phan Hoàng Chung Thủy  
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 8 tháng 4 năm 2025# Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH TÓM TẮT  
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+## 1. THÔNG TIN CHUNG
+
+Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu ("Tổng Công ty") là một công ty cổ phần bảo hiểm được thành lập theo Luật kinh doanh bảo hiểm số 24/2000/QH10 và Luật số 61/2010/QH12 sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm và Luật số 42/2019/QH14 sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm, Luật sở hữu trí tuệ. Tổng Công ty được thành lập theo Giấy phép Thành lập và Hoạt động số 37GP/KDBH do Bộ Tài chính cấp ngày 19 tháng 6 năm 2006 và giấy phép điều chỉnh mới nhất số 37/GPĐC16/KDBH ngày 28 tháng 10 năm 2022.
+
+Hoạt động chính trong năm hiện tại của Tổng Công ty là các hoạt động kinh doanh bảo hiểm phi nhân thọ, kinh doanh tái bảo hiểm, giám định tổn thất, đầu tư tài chính và các hoạt động khác theo quy định của pháp luật.
+
+Tổng Công ty có trụ sở chính đặt tại Tầng 16, Tòa nhà Nam Á, Số 201 - 203 Cách Mạng Tháng Tám, Phường 4, Quận 3, Thành phố Hồ Chí Minh, Việt Nam. Tại ngày 31 tháng 12 năm 2024, Tổng Công ty có một (1) Trụ sở chính, và hai mươi lăm (25) công ty thành viên tại các tỉnh thành.
+
+Số lượng nhân viên của Tổng Công ty tại ngày 31 tháng 12 năm 2024 là 560 người (ngày 31 tháng 12 năm 2023: 536 người).
+
+Tại ngày 31 tháng 12 năm 2024, Tổng Công ty có một công ty liên kết sau:
+
+<table><thead><tr><th>Công ty được đầu tư</th><th>Vốn điều lệ<br/>VND</th><th>Vốn Tổng Công ty đã góp<br/>VND</th><th>Tỷ lệ sở hữu<br/>%</th></tr></thead><tbody><tr><td>Công ty Cổ phần<br/>EVNIC Ninh Thuận</td><td>14.451.704.460</td><td>5.769.790.046</td><td>40,00</td></tr></tbody></table>
+
+## 2. CƠ SỞ TRÌNH BÀY
+
+Báo cáo tài chính tóm tắt của Tổng Công ty được lập bởi Ban Điều hành theo các cơ sở trình bày dưới đây:
+
+- Bảng cân đối kế toán tóm tắt, báo cáo kết quả hoạt động kinh doanh tóm tắt được trích từ báo cáo tài chính cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 của Tổng Công ty đã được kiểm toán và các chỉ tiêu tài chính cơ bản được tính toán dựa trên số liệu của các báo cáo này.
+- Báo cáo tài chính tóm tắt không bao gồm tất cả các thuyết minh cần phải công bố theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam, các hướng dẫn kế toán áp dụng cho các doanh nghiệp bảo hiểm và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+
+### Kỳ kế toán năm
+
+Kỳ kế toán năm của Tổng Công ty áp dụng cho việc lập báo cáo tài chính bắt đầu từ ngày 1 tháng 1 và kết thúc vào ngày 31 tháng 12.
+
+### Đơn vị tiền tệ trong kế toán
+
+Báo cáo tài chính được lập bằng đơn vị tiền tệ trong kế toán của Tổng Công ty là VND.
+
+<table><tbody><tr><td><p>Ông Vũ Văn Điều<br/>P. Giám đốc Ban Kế toán - Thuế</p></td><td><p>Ông Trần Bằng Đoàn<br/>Giám đốc Ban Kế toán - Thuế</p></td><td><p>Ông Phan Hoàng Chung Thủy<br/>Tổng Giám đốc</p></td></tr></tbody></table>
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 8 tháng 4 năm 2025

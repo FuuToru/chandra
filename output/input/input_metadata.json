@@ -1,0 +1,105 @@
+{
+  "file_name": "input.pdf",
+  "num_pages": 8,
+  "total_token_count": 9171,
+  "total_chunks": 80,
+  "total_images": 3,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        4762,
+        6736
+      ],
+      "token_count": 233,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        4762,
+        6736
+      ],
+      "token_count": 291,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        4762,
+        6736
+      ],
+      "token_count": 1216,
+      "num_chunks": 15,
+      "num_images": 1
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        4762,
+        6736
+      ],
+      "token_count": 801,
+      "num_chunks": 13,
+      "num_images": 2
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        4762,
+        6736
+      ],
+      "token_count": 2477,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        4762,
+        6736
+      ],
+      "token_count": 1245,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        4762,
+        6736
+      ],
+      "token_count": 1145,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        4762,
+        6736
+      ],
+      "token_count": 1763,
+      "num_chunks": 20,
+      "num_images": 0
+    }
+  ]
+}

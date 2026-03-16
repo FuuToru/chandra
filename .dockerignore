@@ -1,0 +1,17 @@
+.git
+.github
+__pycache__
+*.pyc
+*.egg-info
+output/
+assets/
+tests/
+uv.lock
+*.pdf
+*.png
+*.jpg
+*.jpeg
+.pre-commit-config.yaml
+MODEL_LICENSE
+LICENSE
+README.md

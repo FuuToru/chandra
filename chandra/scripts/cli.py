@@ -39,12 +39,72 @@ def get_supported_files(input_path: Path) -> List[Path]:
         raise click.BadParameter(f"Path does not exist: {input_path}")
 
 
+# Map Chandra labels to standard block_type names
+LABEL_TO_BLOCK_TYPE = {
+    "Caption": "Caption",
+    "Footnote": "Footnote",
+    "Equation-Block": "Equation",
+    "List-Group": "ListGroup",
+    "Page-Header": "PageHeader",
+    "Page-Footer": "PageFooter",
+    "Image": "Image",
+    "Section-Header": "SectionHeader",
+    "Table": "Table",
+    "Text": "Text",
+    "Complex-Block": "ComplexBlock",
+    "Code-Block": "CodeBlock",
+    "Form": "Form",
+    "Table-Of-Contents": "TableOfContents",
+    "Figure": "Figure",
+}
+
+
+def build_chunks_json(file_name: str, results: List) -> dict:
+    """Build chunks JSON output compatible with Datalab/Marker format."""
+    blocks = []
+    for page_num, result in enumerate(results):
+        for block_idx, chunk in enumerate(result.chunks):
+            label = chunk.get("label", "block")
+            block_type = LABEL_TO_BLOCK_TYPE.get(label, label)
+            bbox = chunk.get("bbox", [0, 0, 0, 0])
+            x0, y0, x1, y1 = bbox
+
+            block = {
+                "id": f"/page/{page_num}/{block_type}/{block_idx}",
+                "block_type": block_type,
+                "html": chunk.get("content", ""),
+                "page": page_num,
+                "polygon": [
+                    [x0, y0],
+                    [x1, y0],
+                    [x1, y1],
+                    [x0, y1],
+                ],
+                "bbox": [x0, y0, x1, y1],
+                "section_hierarchy": {},
+                "images": {},
+            }
+            blocks.append(block)
+
+    return {
+        "success": True,
+        "output_format": "chunks",
+        "file_name": file_name,
+        "num_pages": len(results),
+        "chunks": {
+            "blocks": blocks,
+        },
+    }
+
+
 def save_merged_output(
     output_dir: Path,
     file_name: str,
     results: List,
     save_images: bool = True,
     save_html: bool = True,
+    save_raw: bool = False,
+    save_chunks: bool = False,
     paginate_output: bool = False,
 ):
     """Save merged OCR results for all pages to output directory."""
@@ -56,6 +116,7 @@ def save_merged_output(
     # Merge all pages
     all_markdown = []
     all_html = []
+    all_raw = []
     all_metadata = []
     total_tokens = 0
     total_chunks = 0
@@ -67,9 +128,11 @@ def save_merged_output(
         if page_num > 0 and paginate_output:
             all_markdown.append(f"\n\n{page_num}" + "-" * 48 + "\n\n")
             all_html.append(f"\n\n<!-- Page {page_num + 1} -->\n\n")
+            all_raw.append(f"\n\n<!-- Page {page_num + 1} -->\n\n")
 
         all_markdown.append(result.markdown)
         all_html.append(result.html)
+        all_raw.append(result.raw)
 
         # Accumulate metadata
         total_tokens += result.token_count
@@ -104,6 +167,19 @@ def save_merged_output(
         html_path = file_output_dir / f"{safe_name}.html"
         with open(html_path, "w", encoding="utf-8") as f:
             f.write("".join(all_html))
+
+    # Save raw output if requested (contains data-bbox and data-label for chunking)
+    if save_raw:
+        raw_path = file_output_dir / f"{safe_name}_raw.html"
+        with open(raw_path, "w", encoding="utf-8") as f:
+            f.write("".join(all_raw))
+
+    # Save chunks JSON if requested (Datalab/Marker compatible format)
+    if save_chunks:
+        chunks_data = build_chunks_json(file_name, results)
+        chunks_path = file_output_dir / f"{safe_name}.chunks.json"
+        with open(chunks_path, "w", encoding="utf-8") as f:
+            json.dump(chunks_data, f, indent=2, ensure_ascii=False)
 
     # Save combined metadata
     metadata = {
@@ -170,6 +246,16 @@ def save_merged_output(
     help="Save HTML output files.",
 )
 @click.option(
+    "--save-raw/--no-raw",
+    default=False,
+    help="Save raw model output (includes data-bbox and data-label for chunking).",
+)
+@click.option(
+    "--save-chunks/--no-chunks",
+    default=False,
+    help="Save chunks JSON output (Datalab/Marker compatible format with bbox, block_type, page).",
+)
+@click.option(
     "--batch-size",
     type=int,
     default=None,
@@ -191,6 +277,8 @@ def main(
     include_images: bool,
     include_headers_footers: bool,
     save_html: bool,
+    save_raw: bool,
+    save_chunks: bool,
     batch_size: int,
     paginate_output: bool,
 ):
@@ -279,6 +367,8 @@ def main(
                 all_results,
                 save_images=include_images,
                 save_html=save_html,
+                save_raw=save_raw,
+                save_chunks=save_chunks,
                 paginate_output=paginate_output,
             )
 

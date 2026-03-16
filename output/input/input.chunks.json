@@ -1,0 +1,2570 @@
+{
+  "success": true,
+  "output_format": "chunks",
+  "file_name": "input.pdf",
+  "num_pages": 8,
+  "chunks": {
+    "blocks": [
+      {
+        "id": "/page/0/SectionHeader/0",
+        "block_type": "SectionHeader",
+        "html": "<h1>Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu</h1>",
+        "page": 0,
+        "polygon": [
+          [
+            1264,
+            1302
+          ],
+          [
+            3529,
+            1302
+          ],
+          [
+            3529,
+            1466
+          ],
+          [
+            1264,
+            1466
+          ]
+        ],
+        "bbox": [
+          1264,
+          1302,
+          3529,
+          1466
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/0/Text/1",
+        "block_type": "Text",
+        "html": "<p>Báo cáo tài chính tóm tắt</p>",
+        "page": 0,
+        "polygon": [
+          [
+            1264,
+            1578
+          ],
+          [
+            2176,
+            1578
+          ],
+          [
+            2176,
+            1684
+          ],
+          [
+            1264,
+            1684
+          ]
+        ],
+        "bbox": [
+          1264,
+          1578,
+          2176,
+          1684
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/0/Text/2",
+        "block_type": "Text",
+        "html": "<p>Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024</p>",
+        "page": 0,
+        "polygon": [
+          [
+            1264,
+            1762
+          ],
+          [
+            3232,
+            1762
+          ],
+          [
+            3232,
+            1874
+          ],
+          [
+            1264,
+            1874
+          ]
+        ],
+        "bbox": [
+          1264,
+          1762,
+          3232,
+          1874
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/0/Text/3",
+        "block_type": "Text",
+        "html": "<p>EY</p>",
+        "page": 0,
+        "polygon": [
+          [
+            3478,
+            3249
+          ],
+          [
+            3934,
+            3249
+          ],
+          [
+            3934,
+            3571
+          ],
+          [
+            3478,
+            3571
+          ]
+        ],
+        "bbox": [
+          3478,
+          3249,
+          3934,
+          3571
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/0/Text/4",
+        "block_type": "Text",
+        "html": "<p>Building a better<br/>working world</p>",
+        "page": 0,
+        "polygon": [
+          [
+            3478,
+            3598
+          ],
+          [
+            4171,
+            3598
+          ],
+          [
+            4171,
+            3802
+          ],
+          [
+            3478,
+            3802
+          ]
+        ],
+        "bbox": [
+          3478,
+          3598,
+          4171,
+          3802
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/1/SectionHeader/0",
+        "block_type": "SectionHeader",
+        "html": "<h1>Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu</h1>",
+        "page": 1,
+        "polygon": [
+          [
+            655,
+            335
+          ],
+          [
+            2808,
+            335
+          ],
+          [
+            2808,
+            493
+          ],
+          [
+            655,
+            493
+          ]
+        ],
+        "bbox": [
+          655,
+          335,
+          2808,
+          493
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/1/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "html": "<h2>MỤC LỤC</h2>",
+        "page": 1,
+        "polygon": [
+          [
+            655,
+            1052
+          ],
+          [
+            1032,
+            1052
+          ],
+          [
+            1032,
+            1157
+          ],
+          [
+            655,
+            1157
+          ]
+        ],
+        "bbox": [
+          655,
+          1052,
+          1032,
+          1157
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/1/TableOfContents/2",
+        "block_type": "TableOfContents",
+        "html": "<table><thead><tr><th></th><th>Trang</th></tr></thead><tbody><tr><td>Báo cáo của kiểm toán độc lập về báo cáo tài chính tóm tắt</td><td>1 - 2</td></tr><tr><td>Bảng cân đối kế toán tóm tắt</td><td>3</td></tr><tr><td>Báo cáo kết quả hoạt động kinh doanh tóm tắt</td><td>4</td></tr><tr><td>Các chỉ tiêu tài chính cơ bản</td><td>5</td></tr><tr><td>Thuyết minh báo cáo tài chính tóm tắt</td><td>6</td></tr></tbody></table>",
+        "page": 1,
+        "polygon": [
+          [
+            646,
+            1289
+          ],
+          [
+            4190,
+            1289
+          ],
+          [
+            4190,
+            2473
+          ],
+          [
+            646,
+            2473
+          ]
+        ],
+        "bbox": [
+          646,
+          1289,
+          4190,
+          2473
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/Image/0",
+        "block_type": "Image",
+        "html": "<img alt=\"EY logo\"/>",
+        "page": 2,
+        "polygon": [
+          [
+            553,
+            230
+          ],
+          [
+            953,
+            230
+          ],
+          [
+            953,
+            690
+          ],
+          [
+            553,
+            690
+          ]
+        ],
+        "bbox": [
+          553,
+          230,
+          953,
+          690
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/Text/1",
+        "block_type": "Text",
+        "html": "<p>Building a better<br/>working world</p>",
+        "page": 2,
+        "polygon": [
+          [
+            553,
+            717
+          ],
+          [
+            1050,
+            717
+          ],
+          [
+            1050,
+            874
+          ],
+          [
+            553,
+            874
+          ]
+        ],
+        "bbox": [
+          553,
+          717,
+          1050,
+          874
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/Text/2",
+        "block_type": "Text",
+        "html": "<p>Ernst &amp; Young Vietnam Limited<br/>20th Floor, Bitexco Financial Tower<br/>2 Hai Trieu Street, District 1<br/>Ho Chi Minh City, S.R. of Vietnam</p>",
+        "page": 2,
+        "polygon": [
+          [
+            1636,
+            394
+          ],
+          [
+            2585,
+            394
+          ],
+          [
+            2585,
+            703
+          ],
+          [
+            1636,
+            703
+          ]
+        ],
+        "bbox": [
+          1636,
+          394,
+          2585,
+          703
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/Text/3",
+        "block_type": "Text",
+        "html": "<p>Tel: +84 28 3824 5252<br/>Fax: +84 28 3824 5250<br/>ey.com</p>",
+        "page": 2,
+        "polygon": [
+          [
+            2846,
+            394
+          ],
+          [
+            3483,
+            394
+          ],
+          [
+            3483,
+            631
+          ],
+          [
+            2846,
+            631
+          ]
+        ],
+        "bbox": [
+          2846,
+          394,
+          3483,
+          631
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/Text/4",
+        "block_type": "Text",
+        "html": "<p>Số tham chiếu: 11542258/68444680-BCTT</p>",
+        "page": 2,
+        "polygon": [
+          [
+            525,
+            1019
+          ],
+          [
+            1753,
+            1019
+          ],
+          [
+            1753,
+            1105
+          ],
+          [
+            525,
+            1105
+          ]
+        ],
+        "bbox": [
+          525,
+          1019,
+          1753,
+          1105
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/SectionHeader/5",
+        "block_type": "SectionHeader",
+        "html": "<h2>BÁO CÁO CỦA KIỂM TOÁN ĐỘC LẬP VỀ BÁO CÁO TÀI CHÍNH TÓM TẮT</h2>",
+        "page": 2,
+        "polygon": [
+          [
+            525,
+            1269
+          ],
+          [
+            3790,
+            1269
+          ],
+          [
+            3790,
+            1407
+          ],
+          [
+            525,
+            1407
+          ]
+        ],
+        "bbox": [
+          525,
+          1269,
+          3790,
+          1407
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/Text/6",
+        "block_type": "Text",
+        "html": "<p>Kính gửi: Các cổ đông Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu</p>",
+        "page": 2,
+        "polygon": [
+          [
+            516,
+            1565
+          ],
+          [
+            3129,
+            1565
+          ],
+          [
+            3129,
+            1690
+          ],
+          [
+            516,
+            1690
+          ]
+        ],
+        "bbox": [
+          516,
+          1565,
+          3129,
+          1690
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/Text/7",
+        "block_type": "Text",
+        "html": "<p>Báo cáo tài chính tóm tắt, được lập ngày 8 tháng 4 năm 2025 và được trình bày từ trang 3 đến trang 6, bao gồm bảng cân đối kế toán tóm tắt tại ngày 31 tháng 12 năm 2024, báo cáo kết quả hoạt động kinh doanh tóm tắt cho năm tài chính kết thúc cùng ngày, được trích từ báo cáo tài chính đầy đủ cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 của Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu (\"Tổng Công ty\") đã được kiểm toán và các chỉ tiêu tài chính cơ bản được tính toán dựa trên số liệu của các báo cáo này. Chúng tôi đã đưa ra ý kiến kiểm toán chấp nhận toàn phần đối với báo cáo tài chính đầy đủ này tại báo cáo kiểm toán lập ngày 8 tháng 4 năm 2025. Báo cáo tài chính đầy đủ này và báo cáo tài chính tóm tắt không phản ánh ảnh hưởng của các sự kiện phát sinh sau ngày lập báo cáo kiểm toán nêu trên.</p>",
+        "page": 2,
+        "polygon": [
+          [
+            506,
+            1861
+          ],
+          [
+            4152,
+            1861
+          ],
+          [
+            4152,
+            2624
+          ],
+          [
+            506,
+            2624
+          ]
+        ],
+        "bbox": [
+          506,
+          1861,
+          4152,
+          2624
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/Text/8",
+        "block_type": "Text",
+        "html": "<p>Báo cáo tài chính tóm tắt không bao gồm tất cả các thuyết minh cần phải công bố theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam, các hướng dẫn kế toán áp dụng cho các doanh nghiệp bảo hiểm và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Do đó, việc đọc báo cáo tài chính tóm tắt không thể thay thế cho việc đọc báo cáo tài chính đầy đủ của Tổng Công ty.</p>",
+        "page": 2,
+        "polygon": [
+          [
+            502,
+            2710
+          ],
+          [
+            4138,
+            2710
+          ],
+          [
+            4138,
+            3177
+          ],
+          [
+            502,
+            3177
+          ]
+        ],
+        "bbox": [
+          502,
+          2710,
+          4138,
+          3177
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/SectionHeader/9",
+        "block_type": "SectionHeader",
+        "html": "<h3>Trách nhiệm của Ban Điều hành</h3>",
+        "page": 2,
+        "polygon": [
+          [
+            502,
+            3328
+          ],
+          [
+            1729,
+            3328
+          ],
+          [
+            1729,
+            3446
+          ],
+          [
+            502,
+            3446
+          ]
+        ],
+        "bbox": [
+          502,
+          3328,
+          1729,
+          3446
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/Text/10",
+        "block_type": "Text",
+        "html": "<p>Ban Điều hành Tổng Công ty chịu trách nhiệm về việc lập và trình bày báo cáo tài chính tóm tắt theo các cơ sở trình bày được đề cập trong Thuyết minh số 2.</p>",
+        "page": 2,
+        "polygon": [
+          [
+            497,
+            3525
+          ],
+          [
+            4134,
+            3525
+          ],
+          [
+            4134,
+            3729
+          ],
+          [
+            497,
+            3729
+          ]
+        ],
+        "bbox": [
+          497,
+          3525,
+          4134,
+          3729
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/SectionHeader/11",
+        "block_type": "SectionHeader",
+        "html": "<h3>Trách nhiệm của Kiểm toán viên</h3>",
+        "page": 2,
+        "polygon": [
+          [
+            497,
+            3894
+          ],
+          [
+            1729,
+            3894
+          ],
+          [
+            1729,
+            4006
+          ],
+          [
+            497,
+            4006
+          ]
+        ],
+        "bbox": [
+          497,
+          3894,
+          1729,
+          4006
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/Text/12",
+        "block_type": "Text",
+        "html": "<p>Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính tóm tắt dựa trên các thủ tục mà chúng tôi đã thực hiện theo quy định và hướng dẫn của Chuẩn mực kiểm toán Việt Nam số 810 - \"Dịch vụ báo cáo về báo cáo tài chính tóm tắt\".</p>",
+        "page": 2,
+        "polygon": [
+          [
+            488,
+            4078
+          ],
+          [
+            4124,
+            4078
+          ],
+          [
+            4124,
+            4354
+          ],
+          [
+            488,
+            4354
+          ]
+        ],
+        "bbox": [
+          488,
+          4078,
+          4124,
+          4354
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/PageFooter/13",
+        "block_type": "PageFooter",
+        "html": "<p>1</p>",
+        "page": 2,
+        "polygon": [
+          [
+            2292,
+            6512
+          ],
+          [
+            2343,
+            6512
+          ],
+          [
+            2343,
+            6597
+          ],
+          [
+            2292,
+            6597
+          ]
+        ],
+        "bbox": [
+          2292,
+          6512,
+          2343,
+          6597
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/2/PageFooter/14",
+        "block_type": "PageFooter",
+        "html": "<p>A member firm of Ernst &amp; Young Global Limited</p>",
+        "page": 2,
+        "polygon": [
+          [
+            576,
+            4427
+          ],
+          [
+            1474,
+            4427
+          ],
+          [
+            1474,
+            4486
+          ],
+          [
+            576,
+            4486
+          ]
+        ],
+        "bbox": [
+          576,
+          4427,
+          1474,
+          4486
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/Image/0",
+        "block_type": "Image",
+        "html": "<img alt=\"EY logo\"/>",
+        "page": 3,
+        "polygon": [
+          [
+            544,
+            427
+          ],
+          [
+            1041,
+            427
+          ],
+          [
+            1041,
+            657
+          ],
+          [
+            544,
+            657
+          ]
+        ],
+        "bbox": [
+          544,
+          427,
+          1041,
+          657
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/Text/1",
+        "block_type": "Text",
+        "html": "<p>Building a better<br/>working world</p>",
+        "page": 3,
+        "polygon": [
+          [
+            544,
+            684
+          ],
+          [
+            1041,
+            684
+          ],
+          [
+            1041,
+            848
+          ],
+          [
+            544,
+            848
+          ]
+        ],
+        "bbox": [
+          544,
+          684,
+          1041,
+          848
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "html": "<p><b>Ý kiến của Kiểm toán viên</b></p>",
+        "page": 3,
+        "polygon": [
+          [
+            516,
+            973
+          ],
+          [
+            1511,
+            973
+          ],
+          [
+            1511,
+            1091
+          ],
+          [
+            516,
+            1091
+          ]
+        ],
+        "bbox": [
+          516,
+          973,
+          1511,
+          1091
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/Text/3",
+        "block_type": "Text",
+        "html": "<p>Theo ý kiến của chúng tôi, báo cáo tài chính tóm tắt, được trích từ báo cáo tài chính cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 của Tổng Công ty đã được kiểm toán, đã phản ánh nhất quán, trên các khía cạnh trọng yếu, với báo cáo tài chính đã được kiểm toán, trên cơ sở trình bày được đề cập tại Thuyết minh số 2.</p>",
+        "page": 3,
+        "polygon": [
+          [
+            502,
+            1170
+          ],
+          [
+            4148,
+            1170
+          ],
+          [
+            4148,
+            1559
+          ],
+          [
+            502,
+            1559
+          ]
+        ],
+        "bbox": [
+          502,
+          1170,
+          4148,
+          1559
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/Text/4",
+        "block_type": "Text",
+        "html": "<p>Công ty Trách nhiệm Hữu hạn Ernst &amp; Young Việt Nam</p>",
+        "page": 3,
+        "polygon": [
+          [
+            502,
+            1736
+          ],
+          [
+            2594,
+            1736
+          ],
+          [
+            2594,
+            1855
+          ],
+          [
+            502,
+            1855
+          ]
+        ],
+        "bbox": [
+          502,
+          1736,
+          2594,
+          1855
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/Image/5",
+        "block_type": "Image",
+        "html": "<img alt=\"Circular stamp of Ernst &amp; Young Vietnam, including M.S.D.N.0300811802-C.T.T.N.H.H, CÔNG TY TRÁCH NHIỆM HỮU HẠN ERNST &amp; YOUNG VIỆT NAM, and QUẬN 1 - TP. HỒ CHÍ MINH.\"/>",
+        "page": 3,
+        "polygon": [
+          [
+            306,
+            1881
+          ],
+          [
+            1334,
+            1881
+          ],
+          [
+            1334,
+            2762
+          ],
+          [
+            306,
+            2762
+          ]
+        ],
+        "bbox": [
+          306,
+          1881,
+          1334,
+          2762
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/Caption/6",
+        "block_type": "Caption",
+        "html": "<p>Saman Wijaya Bandara<br/>Phó Tổng Giám đốc<br/>Số Giấy CNDKHN kiểm toán: 2036-2023-004-1</p>",
+        "page": 3,
+        "polygon": [
+          [
+            483,
+            2769
+          ],
+          [
+            2157,
+            2769
+          ],
+          [
+            2157,
+            3078
+          ],
+          [
+            483,
+            3078
+          ]
+        ],
+        "bbox": [
+          483,
+          2769,
+          2157,
+          3078
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/Text/7",
+        "block_type": "Text",
+        "html": "<img alt=\"Signature of Saman Wijaya Bandara\"/>",
+        "page": 3,
+        "polygon": [
+          [
+            2450,
+            1664
+          ],
+          [
+            3594,
+            1664
+          ],
+          [
+            3594,
+            2677
+          ],
+          [
+            2450,
+            2677
+          ]
+        ],
+        "bbox": [
+          2450,
+          1664,
+          3594,
+          2677
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/Caption/8",
+        "block_type": "Caption",
+        "html": "<p>Nguyễn Văn Trung<br/>Kiểm toán viên<br/>Số Giấy CNDKHN kiểm toán: 3847-2021-004-1</p>",
+        "page": 3,
+        "polygon": [
+          [
+            2418,
+            2769
+          ],
+          [
+            4055,
+            2769
+          ],
+          [
+            4055,
+            3078
+          ],
+          [
+            2418,
+            3078
+          ]
+        ],
+        "bbox": [
+          2418,
+          2769,
+          4055,
+          3078
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/Text/9",
+        "block_type": "Text",
+        "html": "<p>Thành phố Hồ Chí Minh, Việt Nam</p>",
+        "page": 3,
+        "polygon": [
+          [
+            478,
+            3216
+          ],
+          [
+            1711,
+            3216
+          ],
+          [
+            1711,
+            3335
+          ],
+          [
+            478,
+            3335
+          ]
+        ],
+        "bbox": [
+          478,
+          3216,
+          1711,
+          3335
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/Text/10",
+        "block_type": "Text",
+        "html": "<p>Ngày 8 tháng 4 năm 2025</p>",
+        "page": 3,
+        "polygon": [
+          [
+            478,
+            3400
+          ],
+          [
+            1404,
+            3400
+          ],
+          [
+            1404,
+            3525
+          ],
+          [
+            478,
+            3525
+          ]
+        ],
+        "bbox": [
+          478,
+          3400,
+          1404,
+          3525
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/PageFooter/11",
+        "block_type": "PageFooter",
+        "html": "<p>2</p>",
+        "page": 3,
+        "polygon": [
+          [
+            2250,
+            6492
+          ],
+          [
+            2311,
+            6492
+          ],
+          [
+            2311,
+            6571
+          ],
+          [
+            2250,
+            6571
+          ]
+        ],
+        "bbox": [
+          2250,
+          6492,
+          2311,
+          6571
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/3/PageFooter/12",
+        "block_type": "PageFooter",
+        "html": "<p>A member firm of Ernst &amp; Young Global Limited</p>",
+        "page": 3,
+        "polygon": [
+          [
+            534,
+            4413
+          ],
+          [
+            1441,
+            4413
+          ],
+          [
+            1441,
+            4473
+          ],
+          [
+            534,
+            4473
+          ]
+        ],
+        "bbox": [
+          534,
+          4413,
+          1441,
+          4473
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/4/SectionHeader/0",
+        "block_type": "SectionHeader",
+        "html": "<h1>Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu</h1>",
+        "page": 4,
+        "polygon": [
+          [
+            651,
+            315
+          ],
+          [
+            2818,
+            315
+          ],
+          [
+            2818,
+            480
+          ],
+          [
+            651,
+            480
+          ]
+        ],
+        "bbox": [
+          651,
+          315,
+          2818,
+          480
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/4/SectionHeader/1",
+        "block_type": "SectionHeader",
+        "html": "<h2>BẢNG CÂN ĐỐI KẾ TOÁN TÓM TẮT</h2>",
+        "page": 4,
+        "polygon": [
+          [
+            651,
+            559
+          ],
+          [
+            2008,
+            559
+          ],
+          [
+            2008,
+            684
+          ],
+          [
+            651,
+            684
+          ]
+        ],
+        "bbox": [
+          651,
+          559,
+          2008,
+          684
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/4/Text/2",
+        "block_type": "Text",
+        "html": "<p>ngày 31 tháng 12 năm 2024</p>",
+        "page": 4,
+        "polygon": [
+          [
+            651,
+            670
+          ],
+          [
+            1669,
+            670
+          ],
+          [
+            1669,
+            782
+          ],
+          [
+            651,
+            782
+          ]
+        ],
+        "bbox": [
+          651,
+          670,
+          1669,
+          782
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/4/Text/3",
+        "block_type": "Text",
+        "html": "<p>VND</p>",
+        "page": 4,
+        "polygon": [
+          [
+            4003,
+            940
+          ],
+          [
+            4180,
+            940
+          ],
+          [
+            4180,
+            1039
+          ],
+          [
+            4003,
+            1039
+          ]
+        ],
+        "bbox": [
+          4003,
+          940,
+          4180,
+          1039
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/4/Table/4",
+        "block_type": "Table",
+        "html": "<table><thead><tr><th>STT</th><th>CHỈ TIÊU</th><th>Số cuối năm</th><th>Số đầu năm</th></tr></thead><tbody><tr><td>I</td><td><strong>TÀI SẢN NGẮN HẠN</strong></td><td>2.248.296.160.963</td><td>2.174.065.390.675</td></tr><tr><td>1</td><td>Tiền và các khoản tương đương tiền</td><td>39.556.388.910</td><td>45.643.179.707</td></tr><tr><td>2</td><td>Đầu tư tài chính ngắn hạn</td><td>1.182.000.000.000</td><td>922.500.000.000</td></tr><tr><td>3</td><td>Các khoản phải thu ngắn hạn</td><td>600.093.479.428</td><td>688.016.666.754</td></tr><tr><td>4</td><td>Hàng tồn kho</td><td>1.745.885.922</td><td>1.591.563.252</td></tr><tr><td>5</td><td>Tài sản ngắn hạn khác</td><td>223.929.635.236</td><td>295.993.575.869</td></tr><tr><td>6</td><td>Tài sản tái bảo hiểm</td><td>200.970.771.467</td><td>220.320.405.093</td></tr><tr><td></td><td>Dự phòng phí nhượng tái bảo hiểm</td><td>139.761.636.683</td><td>160.058.326.602</td></tr><tr><td></td><td>Dự phòng bồi thường nhượng tái bảo hiểm</td><td>61.209.134.784</td><td>60.262.078.491</td></tr><tr><td>II</td><td><strong>TÀI SẢN DÀI HẠN</strong></td><td>82.325.181.553</td><td>144.549.473.097</td></tr><tr><td>1</td><td>Các khoản phải thu dài hạn</td><td>11.637.654.709</td><td>10.007.378.084</td></tr><tr><td>2</td><td>Tài sản cố định</td><td>58.360.951.470</td><td>62.974.813.037</td></tr><tr><td></td><td>Tài sản cố định hữu hình</td><td>9.494.362.325</td><td>10.317.646.741</td></tr><tr><td></td><td>Tài sản cố định vô hình</td><td>48.866.589.145</td><td>52.657.166.296</td></tr><tr><td>3</td><td>Chi phí xây dựng cơ bản dở dang</td><td>290.750.000</td><td>368.418.200</td></tr><tr><td>4</td><td>Đầu tư tài chính dài hạn</td><td>4.124.325.333</td><td>62.935.692.952</td></tr><tr><td>5</td><td>Tài sản dài hạn khác</td><td>7.911.500.041</td><td>8.263.170.824</td></tr><tr><td>III</td><td><strong>TỔNG CỘNG TÀI SẢN</strong></td><td>2.330.621.342.516</td><td>2.318.614.863.772</td></tr><tr><td>IV</td><td><strong>NỢ PHẢI TRẢ</strong></td><td>1.430.910.953.305</td><td>1.443.248.663.476</td></tr><tr><td>1</td><td>Nợ ngắn hạn</td><td>1.430.874.150.194</td><td>1.443.202.790.365</td></tr><tr><td></td><td>Trong đó:</td><td></td><td></td></tr><tr><td></td><td>Dự phòng nghiệp vụ</td><td>685.181.148.248</td><td>705.466.372.188</td></tr><tr><td></td><td>- Dự phòng phí bảo hiểm gốc và nhận tái bảo hiểm</td><td>470.572.264.802</td><td>512.693.814.348</td></tr><tr><td></td><td>- Dự phòng bồi thường bảo hiểm gốc và nhận tái bảo hiểm</td><td>133.043.520.953</td><td>125.720.454.696</td></tr><tr><td></td><td>- Dự phòng dao động lớn</td><td>81.565.362.493</td><td>67.052.103.144</td></tr><tr><td>2</td><td>Nợ dài hạn</td><td>36.803.111</td><td>45.873.111</td></tr><tr><td>V</td><td><strong>VỐN CHỦ SỞ HỮU</strong></td><td>899.710.389.211</td><td>875.366.200.296</td></tr><tr><td>1</td><td>Vốn đầu tư của chủ sở hữu</td><td>465.000.000.000</td><td>465.000.000.000</td></tr><tr><td>2</td><td>Thặng dư vốn cổ phần</td><td>141.065.447.765</td><td>141.065.447.765</td></tr><tr><td>3</td><td>Quỹ dự trữ bắt buộc</td><td>26.612.227.148</td><td>24.697.517.702</td></tr><tr><td>4</td><td>Lợi nhuận sau thuế chưa phân phối</td><td>267.032.714.298</td><td>244.603.234.829</td></tr><tr><td>VI</td><td><strong>TỔNG CỘNG NGUỒN VỐN</strong></td><td>2.330.621.342.516</td><td>2.318.614.863.772</td></tr></tbody></table>",
+        "page": 4,
+        "polygon": [
+          [
+            651,
+            1065
+          ],
+          [
+            4180,
+            1065
+          ],
+          [
+            4180,
+            5052
+          ],
+          [
+            651,
+            5052
+          ]
+        ],
+        "bbox": [
+          651,
+          1065,
+          4180,
+          5052
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/4/Text/5",
+        "block_type": "Text",
+        "html": "<p><img alt=\"Signature of Ông Vũ Văn Điêu\"/><br/>Ông Vũ Văn Điêu<br/>P. Giám đốc Ban Kế toán - Thuế</p><p><img alt=\"Signature of Ông Trần Bằng Đoàn\"/><br/>Ông Trần Bằng Đoàn<br/>Giám đốc Ban Kế toán - Thuế</p><p><img alt=\"Signature of Ông Phan Hoàng Chung Thủy\"/><br/>Ông Phan Hoàng Chung Thủy<br/>Tổng Giám đốc</p>",
+        "page": 4,
+        "polygon": [
+          [
+            651,
+            5052
+          ],
+          [
+            4208,
+            5052
+          ],
+          [
+            4208,
+            5854
+          ],
+          [
+            651,
+            5854
+          ]
+        ],
+        "bbox": [
+          651,
+          5052,
+          4208,
+          5854
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/4/Text/6",
+        "block_type": "Text",
+        "html": "<p>Thành phố Hồ Chí Minh, Việt Nam</p>",
+        "page": 4,
+        "polygon": [
+          [
+            651,
+            6143
+          ],
+          [
+            1902,
+            6143
+          ],
+          [
+            1902,
+            6268
+          ],
+          [
+            651,
+            6268
+          ]
+        ],
+        "bbox": [
+          651,
+          6143,
+          1902,
+          6268
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/4/Text/7",
+        "block_type": "Text",
+        "html": "<p>Ngày 8 tháng 4 năm 2025</p>",
+        "page": 4,
+        "polygon": [
+          [
+            651,
+            6334
+          ],
+          [
+            1590,
+            6334
+          ],
+          [
+            1590,
+            6459
+          ],
+          [
+            651,
+            6459
+          ]
+        ],
+        "bbox": [
+          651,
+          6334,
+          1590,
+          6459
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/4/PageFooter/8",
+        "block_type": "PageFooter",
+        "html": "<p>3</p>",
+        "page": 4,
+        "polygon": [
+          [
+            2436,
+            6492
+          ],
+          [
+            2497,
+            6492
+          ],
+          [
+            2497,
+            6578
+          ],
+          [
+            2436,
+            6578
+          ]
+        ],
+        "bbox": [
+          2436,
+          6492,
+          2497,
+          6578
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/5/SectionHeader/0",
+        "block_type": "SectionHeader",
+        "html": "<h1>Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu</h1>",
+        "page": 5,
+        "polygon": [
+          [
+            655,
+            328
+          ],
+          [
+            2822,
+            328
+          ],
+          [
+            2822,
+            493
+          ],
+          [
+            655,
+            493
+          ]
+        ],
+        "bbox": [
+          655,
+          328,
+          2822,
+          493
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/5/Text/1",
+        "block_type": "Text",
+        "html": "<p>BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH TÓM TẮT<br/>cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024</p>",
+        "page": 5,
+        "polygon": [
+          [
+            655,
+            559
+          ],
+          [
+            2808,
+            559
+          ],
+          [
+            2808,
+            789
+          ],
+          [
+            655,
+            789
+          ]
+        ],
+        "bbox": [
+          655,
+          559,
+          2808,
+          789
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/5/Text/2",
+        "block_type": "Text",
+        "html": "<p>VND</p>",
+        "page": 5,
+        "polygon": [
+          [
+            4008,
+            947
+          ],
+          [
+            4190,
+            947
+          ],
+          [
+            4190,
+            1045
+          ],
+          [
+            4008,
+            1045
+          ]
+        ],
+        "bbox": [
+          4008,
+          947,
+          4190,
+          1045
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/5/Table/3",
+        "block_type": "Table",
+        "html": "<table><thead><tr><th>STT</th><th>CHỈ TIÊU</th><th>Năm nay</th><th>Năm trước</th></tr></thead><tbody><tr><td>10</td><td>1. Doanh thu thuần hoạt động kinh doanh bảo hiểm</td><td>2.388.298.177.104</td><td>1.587.393.804.120</td></tr><tr><td>12</td><td>2. Doanh thu hoạt động tài chính</td><td>65.510.256.660</td><td>89.255.454.890</td></tr><tr><td>13</td><td>3. Thu nhập khác</td><td>162.346.523</td><td>6.198.550.242</td></tr><tr><td>20</td><td>4. Tổng chi phí hoạt động kinh doanh bảo hiểm</td><td>(2.064.366.266.775)</td><td>(1.267.622.893.482)</td></tr><tr><td>22</td><td>5. Chi phí hoạt động tài chính</td><td>(1.206.145.079)</td><td>(3.366.005.574)</td></tr><tr><td>23</td><td>6. Chi phí quản lý doanh nghiệp</td><td>(324.007.522.598)</td><td>(316.287.877.302)</td></tr><tr><td>24</td><td>7. Chi phí khác</td><td>(11.132.273.775)</td><td>(1.359.277.026)</td></tr><tr><td>50</td><td>8. Tổng lợi nhuận kế toán trước thuế</td><td>53.258.572.060</td><td>94.211.755.868</td></tr><tr><td>51</td><td>9. Chi phí thuế TNDN</td><td>(14.964.383.145)</td><td>(20.271.364.594)</td></tr><tr><td>60</td><td>10. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td>38.294.188.915</td><td>73.940.391.274</td></tr><tr><td>70</td><td>11. Lãi cơ bản trên cổ phiếu</td><td>824</td><td>1.590</td></tr></tbody></table>",
+        "page": 5,
+        "polygon": [
+          [
+            655,
+            1072
+          ],
+          [
+            4190,
+            1072
+          ],
+          [
+            4190,
+            3664
+          ],
+          [
+            655,
+            3664
+          ]
+        ],
+        "bbox": [
+          655,
+          1072,
+          4190,
+          3664
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/5/ComplexBlock/4",
+        "block_type": "ComplexBlock",
+        "html": "<div><p><img alt=\"Signature of Ông Vũ Văn Điều\"/></p><p>Ông Vũ Văn Điều<br/>P. Giám đốc Ban Kế toán - Thuế</p><p><img alt=\"Signature of Ông Trần Bằng Đoàn\"/></p><p>Ông Trần Bằng Đoàn<br/>Giám đốc Ban Kế toán - Thuế</p><p><img alt=\"Signature of Ông Phan Hoàng Chung Thủy\"/></p><p>Ông Phan Hoàng Chung Thủy<br/>Tổng Giám đốc</p><p><img alt=\"Circular seal of Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu\"/></p></div>",
+        "page": 5,
+        "polygon": [
+          [
+            655,
+            3664
+          ],
+          [
+            4190,
+            3664
+          ],
+          [
+            4190,
+            4381
+          ],
+          [
+            655,
+            4381
+          ]
+        ],
+        "bbox": [
+          655,
+          3664,
+          4190,
+          4381
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/5/Text/5",
+        "block_type": "Text",
+        "html": "<p>Thành phố Hồ Chí Minh, Việt Nam</p>",
+        "page": 5,
+        "polygon": [
+          [
+            655,
+            4775
+          ],
+          [
+            1915,
+            4775
+          ],
+          [
+            1915,
+            4894
+          ],
+          [
+            655,
+            4894
+          ]
+        ],
+        "bbox": [
+          655,
+          4775,
+          1915,
+          4894
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/5/Text/6",
+        "block_type": "Text",
+        "html": "<p>Ngày 8 tháng 4 năm 2025</p>",
+        "page": 5,
+        "polygon": [
+          [
+            655,
+            4966
+          ],
+          [
+            1604,
+            4966
+          ],
+          [
+            1604,
+            5084
+          ],
+          [
+            655,
+            5084
+          ]
+        ],
+        "bbox": [
+          655,
+          4966,
+          1604,
+          5084
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/5/PageFooter/7",
+        "block_type": "PageFooter",
+        "html": "<p>4</p>",
+        "page": 5,
+        "polygon": [
+          [
+            2455,
+            6492
+          ],
+          [
+            2515,
+            6492
+          ],
+          [
+            2515,
+            6571
+          ],
+          [
+            2455,
+            6571
+          ]
+        ],
+        "bbox": [
+          2455,
+          6492,
+          2515,
+          6571
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/6/SectionHeader/0",
+        "block_type": "SectionHeader",
+        "html": "<h1>Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu</h1>",
+        "page": 6,
+        "polygon": [
+          [
+            651,
+            322
+          ],
+          [
+            2813,
+            322
+          ],
+          [
+            2813,
+            493
+          ],
+          [
+            651,
+            493
+          ]
+        ],
+        "bbox": [
+          651,
+          322,
+          2813,
+          493
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/6/Text/1",
+        "block_type": "Text",
+        "html": "<p>CÁC CHỈ TIÊU TÀI CHÍNH CƠ BẢN<br/>cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024</p>",
+        "page": 6,
+        "polygon": [
+          [
+            651,
+            572
+          ],
+          [
+            2613,
+            572
+          ],
+          [
+            2613,
+            789
+          ],
+          [
+            651,
+            789
+          ]
+        ],
+        "bbox": [
+          651,
+          572,
+          2613,
+          789
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/6/Table/2",
+        "block_type": "Table",
+        "html": "<table><thead><tr><th>STT</th><th>CHỈ TIÊU</th><th>Đơn vị tính</th><th>Năm nay</th><th>Năm trước</th></tr></thead><tbody><tr><td rowspan=\"2\">1.</td><td>Cơ cấu tài sản</td><td></td><td></td><td></td></tr><tr><td>Tài sản dài hạn/Tổng tài sản</td><td>%</td><td>3,53</td><td>6,23</td></tr><tr><td></td><td>Tài sản ngắn hạn/Tổng tài sản</td><td>%</td><td>96,47</td><td>93,77</td></tr><tr><td rowspan=\"2\">2.</td><td>Cơ cấu nguồn vốn</td><td></td><td></td><td></td></tr><tr><td>Nợ phải trả<br/>(Tổng nợ phải trả và vốn chủ sở hữu)</td><td>%</td><td>61,40</td><td>62,25</td></tr><tr><td></td><td>Vốn chủ sở hữu<br/>(Tổng nợ phải trả và vốn chủ sở hữu)</td><td>%</td><td>38,60</td><td>37,75</td></tr><tr><td rowspan=\"3\">3.</td><td>Khả năng thanh toán</td><td></td><td></td><td></td></tr><tr><td>(Tiền và các khoản tương đương tiền<br/>+ Các khoản đầu tư tài chính ngắn hạn<br/>+ Các khoản phải thu ngắn hạn) / Nợ ngắn hạn</td><td>Lần</td><td>1,27</td><td>1,15</td></tr><tr><td>Tài sản ngắn hạn/Nợ ngắn hạn</td><td>Lần</td><td>1,57</td><td>1,51</td></tr><tr><td rowspan=\"3\">4.</td><td>Tỷ suất lợi nhuận</td><td></td><td></td><td></td></tr><tr><td>Lợi nhuận trước thuế/Tổng tài sản</td><td>%</td><td>2,29</td><td>4,06</td></tr><tr><td>Lợi nhuận sau thuế/Doanh thu thuần từ hoạt động kinh doanh bảo hiểm</td><td>%</td><td>1,60</td><td>4,66</td></tr><tr><td></td><td>Lợi nhuận sau thuế/Nguồn vốn chủ sở hữu</td><td>%</td><td>4,26</td><td>8,45</td></tr><tr><td>5</td><td>Biên khả năng thanh toán</td><td></td><td></td><td></td></tr><tr><td></td><td>Biên khả năng thanh toán</td><td>%</td><td>153</td><td>151</td></tr></tbody></table>",
+        "page": 6,
+        "polygon": [
+          [
+            651,
+            947
+          ],
+          [
+            4185,
+            947
+          ],
+          [
+            4185,
+            3644
+          ],
+          [
+            651,
+            3644
+          ]
+        ],
+        "bbox": [
+          651,
+          947,
+          4185,
+          3644
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/6/Text/3",
+        "block_type": "Text",
+        "html": "<p><img alt=\"Signature of Mr. Vu Van Dieu\"/><br/>Ông Vũ Văn Điệu<br/>P. Giám đốc Ban Kế toán - Thuế</p><p><img alt=\"Signature of Mr. Tran Bang Doan\"/><br/>Ông Trần Bằng Đoàn<br/>Giám đốc Ban Kế toán - Thuế</p><p><img alt=\"Signature of Mr. Phan Hoang Chung Thuy\"/><br/>Ông Phan Hoàng Chung Thủy<br/>Tổng Giám đốc</p>",
+        "page": 6,
+        "polygon": [
+          [
+            595,
+            3565
+          ],
+          [
+            4222,
+            3565
+          ],
+          [
+            4222,
+            4492
+          ],
+          [
+            595,
+            4492
+          ]
+        ],
+        "bbox": [
+          595,
+          3565,
+          4222,
+          4492
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/6/Text/4",
+        "block_type": "Text",
+        "html": "<p>Thành phố Hồ Chí Minh, Việt Nam</p>",
+        "page": 6,
+        "polygon": [
+          [
+            651,
+            4736
+          ],
+          [
+            1911,
+            4736
+          ],
+          [
+            1911,
+            4854
+          ],
+          [
+            651,
+            4854
+          ]
+        ],
+        "bbox": [
+          651,
+          4736,
+          1911,
+          4854
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/6/Text/5",
+        "block_type": "Text",
+        "html": "<p>Ngày 8 tháng 4 năm 2025</p>",
+        "page": 6,
+        "polygon": [
+          [
+            651,
+            4927
+          ],
+          [
+            1599,
+            4927
+          ],
+          [
+            1599,
+            5052
+          ],
+          [
+            651,
+            5052
+          ]
+        ],
+        "bbox": [
+          651,
+          4927,
+          1599,
+          5052
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/6/PageFooter/6",
+        "block_type": "PageFooter",
+        "html": "<p>5</p>",
+        "page": 6,
+        "polygon": [
+          [
+            2450,
+            6479
+          ],
+          [
+            2506,
+            6479
+          ],
+          [
+            2506,
+            6564
+          ],
+          [
+            2450,
+            6564
+          ]
+        ],
+        "bbox": [
+          2450,
+          6479,
+          2506,
+          6564
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/SectionHeader/0",
+        "block_type": "SectionHeader",
+        "html": "<h1>Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu</h1>",
+        "page": 7,
+        "polygon": [
+          [
+            692,
+            309
+          ],
+          [
+            2855,
+            309
+          ],
+          [
+            2855,
+            473
+          ],
+          [
+            692,
+            473
+          ]
+        ],
+        "bbox": [
+          692,
+          309,
+          2855,
+          473
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/1",
+        "block_type": "Text",
+        "html": "<p>THUYẾT MINH BÁO CÁO TÀI CHÍNH TÓM TẮT<br/>cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024</p>",
+        "page": 7,
+        "polygon": [
+          [
+            692,
+            552
+          ],
+          [
+            2664,
+            552
+          ],
+          [
+            2664,
+            776
+          ],
+          [
+            692,
+            776
+          ]
+        ],
+        "bbox": [
+          692,
+          552,
+          2664,
+          776
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/SectionHeader/2",
+        "block_type": "SectionHeader",
+        "html": "<h2>1. THÔNG TIN CHUNG</h2>",
+        "page": 7,
+        "polygon": [
+          [
+            692,
+            947
+          ],
+          [
+            1753,
+            947
+          ],
+          [
+            1753,
+            1052
+          ],
+          [
+            692,
+            1052
+          ]
+        ],
+        "bbox": [
+          692,
+          947,
+          1753,
+          1052
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/3",
+        "block_type": "Text",
+        "html": "<p>Tổng Công ty Cổ phần Bảo hiểm Toàn Cầu (\"Tổng Công ty\") là một công ty cổ phần bảo hiểm được thành lập theo Luật kinh doanh bảo hiểm số 24/2000/QH10 và Luật số 61/2010/QH12 sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm và Luật số 42/2019/QH14 sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm, Luật sở hữu trí tuệ. Tổng Công ty được thành lập theo Giấy phép Thành lập và Hoạt động số 37GP/KDBH do Bộ Tài chính cấp ngày 19 tháng 6 năm 2006 và giấy phép điều chỉnh mới nhất số 37/GPĐC16/KDBH ngày 28 tháng 10 năm 2022.</p>",
+        "page": 7,
+        "polygon": [
+          [
+            967,
+            1111
+          ],
+          [
+            4222,
+            1111
+          ],
+          [
+            4222,
+            1697
+          ],
+          [
+            967,
+            1697
+          ]
+        ],
+        "bbox": [
+          967,
+          1111,
+          4222,
+          1697
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/4",
+        "block_type": "Text",
+        "html": "<p>Hoạt động chính trong năm hiện tại của Tổng Công ty là các hoạt động kinh doanh bảo hiểm phi nhân thọ, kinh doanh tái bảo hiểm, giám định tổn thất, đầu tư tài chính và các hoạt động khác theo quy định của pháp luật.</p>",
+        "page": 7,
+        "polygon": [
+          [
+            967,
+            1736
+          ],
+          [
+            4208,
+            1736
+          ],
+          [
+            4208,
+            2032
+          ],
+          [
+            967,
+            2032
+          ]
+        ],
+        "bbox": [
+          967,
+          1736,
+          4208,
+          2032
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/5",
+        "block_type": "Text",
+        "html": "<p>Tổng Công ty có trụ sở chính đặt tại Tầng 16, Tòa nhà Nam Á, Số 201 - 203 Cách Mạng Tháng Tám, Phường 4, Quận 3, Thành phố Hồ Chí Minh, Việt Nam. Tại ngày 31 tháng 12 năm 2024, Tổng Công ty có một (1) Trụ sở chính, và hai mươi lăm (25) công ty thành viên tại các tỉnh thành.</p>",
+        "page": 7,
+        "polygon": [
+          [
+            967,
+            2072
+          ],
+          [
+            4208,
+            2072
+          ],
+          [
+            4208,
+            2394
+          ],
+          [
+            967,
+            2394
+          ]
+        ],
+        "bbox": [
+          967,
+          2072,
+          4208,
+          2394
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/6",
+        "block_type": "Text",
+        "html": "<p>Số lượng nhân viên của Tổng Công ty tại ngày 31 tháng 12 năm 2024 là 560 người (ngày 31 tháng 12 năm 2023: 536 người).</p>",
+        "page": 7,
+        "polygon": [
+          [
+            967,
+            2427
+          ],
+          [
+            4190,
+            2427
+          ],
+          [
+            4190,
+            2624
+          ],
+          [
+            967,
+            2624
+          ]
+        ],
+        "bbox": [
+          967,
+          2427,
+          4190,
+          2624
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/7",
+        "block_type": "Text",
+        "html": "<p>Tại ngày 31 tháng 12 năm 2024, Tổng Công ty có một công ty liên kết sau:</p>",
+        "page": 7,
+        "polygon": [
+          [
+            967,
+            2670
+          ],
+          [
+            3571,
+            2670
+          ],
+          [
+            3571,
+            2795
+          ],
+          [
+            967,
+            2795
+          ]
+        ],
+        "bbox": [
+          967,
+          2670,
+          3571,
+          2795
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Table/8",
+        "block_type": "Table",
+        "html": "<table><thead><tr><th>Công ty được đầu tư</th><th>Vốn điều lệ<br/>VND</th><th>Vốn Tổng Công ty đã góp<br/>VND</th><th>Tỷ lệ sở hữu<br/>%</th></tr></thead><tbody><tr><td>Công ty Cổ phần<br/>EVNIC Ninh Thuận</td><td>14.451.704.460</td><td>5.769.790.046</td><td>40,00</td></tr></tbody></table>",
+        "page": 7,
+        "polygon": [
+          [
+            957,
+            2841
+          ],
+          [
+            4199,
+            2841
+          ],
+          [
+            4199,
+            3308
+          ],
+          [
+            957,
+            3308
+          ]
+        ],
+        "bbox": [
+          957,
+          2841,
+          4199,
+          3308
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/SectionHeader/9",
+        "block_type": "SectionHeader",
+        "html": "<h2>2. CƠ SỞ TRÌNH BÀY</h2>",
+        "page": 7,
+        "polygon": [
+          [
+            655,
+            3453
+          ],
+          [
+            1683,
+            3453
+          ],
+          [
+            1683,
+            3565
+          ],
+          [
+            655,
+            3565
+          ]
+        ],
+        "bbox": [
+          655,
+          3453,
+          1683,
+          3565
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/10",
+        "block_type": "Text",
+        "html": "<p>Báo cáo tài chính tóm tắt của Tổng Công ty được lập bởi Ban Điều hành theo các cơ sở trình bày dưới đây:</p>",
+        "page": 7,
+        "polygon": [
+          [
+            948,
+            3604
+          ],
+          [
+            4180,
+            3604
+          ],
+          [
+            4180,
+            3815
+          ],
+          [
+            948,
+            3815
+          ]
+        ],
+        "bbox": [
+          948,
+          3604,
+          4180,
+          3815
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/ListGroup/11",
+        "block_type": "ListGroup",
+        "html": "<ul><li>Bảng cân đối kế toán tóm tắt, báo cáo kết quả hoạt động kinh doanh tóm tắt được trích từ báo cáo tài chính cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 của Tổng Công ty đã được kiểm toán và các chỉ tiêu tài chính cơ bản được tính toán dựa trên số liệu của các báo cáo này.</li><li>Báo cáo tài chính tóm tắt không bao gồm tất cả các thuyết minh cần phải công bố theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam, các hướng dẫn kế toán áp dụng cho các doanh nghiệp bảo hiểm và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.</li></ul>",
+        "page": 7,
+        "polygon": [
+          [
+            981,
+            3828
+          ],
+          [
+            4180,
+            3828
+          ],
+          [
+            4180,
+            4617
+          ],
+          [
+            981,
+            4617
+          ]
+        ],
+        "bbox": [
+          981,
+          3828,
+          4180,
+          4617
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/SectionHeader/12",
+        "block_type": "SectionHeader",
+        "html": "<h3>Kỳ kế toán năm</h3>",
+        "page": 7,
+        "polygon": [
+          [
+            934,
+            4657
+          ],
+          [
+            1529,
+            4657
+          ],
+          [
+            1529,
+            4762
+          ],
+          [
+            934,
+            4762
+          ]
+        ],
+        "bbox": [
+          934,
+          4657,
+          1529,
+          4762
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/13",
+        "block_type": "Text",
+        "html": "<p>Kỳ kế toán năm của Tổng Công ty áp dụng cho việc lập báo cáo tài chính bắt đầu từ ngày 1 tháng 1 và kết thúc vào ngày 31 tháng 12.</p>",
+        "page": 7,
+        "polygon": [
+          [
+            934,
+            4788
+          ],
+          [
+            4162,
+            4788
+          ],
+          [
+            4162,
+            5005
+          ],
+          [
+            934,
+            5005
+          ]
+        ],
+        "bbox": [
+          934,
+          4788,
+          4162,
+          5005
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/SectionHeader/14",
+        "block_type": "SectionHeader",
+        "html": "<h3>Đơn vị tiền tệ trong kế toán</h3>",
+        "page": 7,
+        "polygon": [
+          [
+            934,
+            5045
+          ],
+          [
+            1981,
+            5045
+          ],
+          [
+            1981,
+            5157
+          ],
+          [
+            934,
+            5157
+          ]
+        ],
+        "bbox": [
+          934,
+          5045,
+          1981,
+          5157
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/15",
+        "block_type": "Text",
+        "html": "<p>Báo cáo tài chính được lập bằng đơn vị tiền tệ trong kế toán của Tổng Công ty là VND.</p>",
+        "page": 7,
+        "polygon": [
+          [
+            934,
+            5163
+          ],
+          [
+            3962,
+            5163
+          ],
+          [
+            3962,
+            5282
+          ],
+          [
+            934,
+            5282
+          ]
+        ],
+        "bbox": [
+          934,
+          5163,
+          3962,
+          5282
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/ComplexBlock/16",
+        "block_type": "ComplexBlock",
+        "html": "<table><tbody><tr><td><p>Ông Vũ Văn Điều<br/>P. Giám đốc Ban Kế toán - Thuế</p></td><td><p>Ông Trần Bằng Đoàn<br/>Giám đốc Ban Kế toán - Thuế</p></td><td><p>Ông Phan Hoàng Chung Thủy<br/>Tổng Giám đốc</p></td></tr></tbody></table>",
+        "page": 7,
+        "polygon": [
+          [
+            827,
+            5091
+          ],
+          [
+            4152,
+            5091
+          ],
+          [
+            4152,
+            6038
+          ],
+          [
+            827,
+            6038
+          ]
+        ],
+        "bbox": [
+          827,
+          5091,
+          4152,
+          6038
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/17",
+        "block_type": "Text",
+        "html": "<p>Thành phố Hồ Chí Minh, Việt Nam</p>",
+        "page": 7,
+        "polygon": [
+          [
+            911,
+            6176
+          ],
+          [
+            2157,
+            6176
+          ],
+          [
+            2157,
+            6288
+          ],
+          [
+            911,
+            6288
+          ]
+        ],
+        "bbox": [
+          911,
+          6176,
+          2157,
+          6288
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/Text/18",
+        "block_type": "Text",
+        "html": "<p>Ngày 8 tháng 4 năm 2025</p>",
+        "page": 7,
+        "polygon": [
+          [
+            911,
+            6361
+          ],
+          [
+            1846,
+            6361
+          ],
+          [
+            1846,
+            6472
+          ],
+          [
+            911,
+            6472
+          ]
+        ],
+        "bbox": [
+          911,
+          6361,
+          1846,
+          6472
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      },
+      {
+        "id": "/page/7/PageFooter/19",
+        "block_type": "PageFooter",
+        "html": "<p>6</p>",
+        "page": 7,
+        "polygon": [
+          [
+            2404,
+            6499
+          ],
+          [
+            2464,
+            6499
+          ],
+          [
+            2464,
+            6584
+          ],
+          [
+            2404,
+            6584
+          ]
+        ],
+        "bbox": [
+          2404,
+          6499,
+          2464,
+          6584
+        ],
+        "section_hierarchy": {},
+        "images": {}
+      }
+    ]
+  }
+}
